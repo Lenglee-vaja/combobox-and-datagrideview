@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\Homeworklab\Homeworklab\bin\Debug\Homeworklab.exe.config
+C:\Users\ACER\source\repos\Homeworklab\Homeworklab\bin\Debug\Homeworklab.exe
+C:\Users\ACER\source\repos\Homeworklab\Homeworklab\bin\Debug\Homeworklab.pdb
+C:\Users\ACER\source\repos\Homeworklab\Homeworklab\obj\Debug\Homeworklab.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Homeworklab\Homeworklab\obj\Debug\Homeworklab.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\source\repos\Homeworklab\Homeworklab\obj\Debug\Homeworklab.Form1.resources
+C:\Users\ACER\source\repos\Homeworklab\Homeworklab\obj\Debug\Homeworklab.Properties.Resources.resources
+C:\Users\ACER\source\repos\Homeworklab\Homeworklab\obj\Debug\Homeworklab.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Homeworklab\Homeworklab\obj\Debug\Homeworklab.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Homeworklab\Homeworklab\obj\Debug\Homeworklab.exe
+C:\Users\ACER\source\repos\Homeworklab\Homeworklab\obj\Debug\Homeworklab.pdb
